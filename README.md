@@ -6,6 +6,8 @@ This project demonstrates the design of real-time, LAN-based multiplayer gamepla
 ## 🎥 Demo Video
 Watch here: [YouTube Demo](https://youtu.be/GUrJoY3jC6E)
 
+## 📦 Full Unity Project Download
+[Download from Google Drive](https://drive.google.com/file/d/18P6oz8b2INHFQUN4ba_Y4WiuV38oBnva/view?usp=sharing)
 
 ## 🛠️ Technologies Used
 - Unity3D  
